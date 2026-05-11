@@ -28,5 +28,35 @@ This commands includes
 
 ## Output
 
+### Netstat
+![alt text](Netstat.png)
+
+### IP Config
+![alt text](<IP Config.png>)
+
+### Getmac
+![alt text](Getmac.png)
+
+### ARP
+![alt text](ARP.png)
+
+### Hostname
+![alt text](Hostname.png)
+
+### Ping
+![alt text](Ping.png)
+
+### System Info
+![alt text](<System Info.png>)
+
+### Tasklist
+![alt text](Tasklist.png)
+
+### Tracert
+![alt text](Tracert.png)
+
+### NS Lookup
+![alt text](<NS Lookup.png>)
+
 ## Result
 Thus Execution of Network commands Performed 
